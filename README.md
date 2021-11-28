@@ -1,4 +1,4 @@
-Write a function that returns the sum of all numbers regardless of # of params.
+Write a function that returns the sum of all numbers.
 
 **Example**
 
